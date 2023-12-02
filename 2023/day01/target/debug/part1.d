@@ -1,0 +1,1 @@
+E:\Dev\Hobby\advent-of-code\2023\day01\target\debug\part1.exe: E:\Dev\Hobby\advent-of-code\2023\day01\input1.txt E:\Dev\Hobby\advent-of-code\2023\day01\src\bin\part1.rs E:\Dev\Hobby\advent-of-code\2023\day01\src\custom_error.rs E:\Dev\Hobby\advent-of-code\2023\day01\src\lib.rs E:\Dev\Hobby\advent-of-code\2023\day01\src\part1.rs E:\Dev\Hobby\advent-of-code\2023\day01\src\part2.rs

@@ -1,0 +1,12 @@
+E:\Dev\Hobby\advent-of-code\2023\day01\target\debug\deps\libanstyle-6fcf4ca455fd83b5.rmeta: C:\Users\jax\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\lib.rs C:\Users\jax\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\macros.rs C:\Users\jax\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\color.rs C:\Users\jax\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\effect.rs C:\Users\jax\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\reset.rs C:\Users\jax\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\style.rs
+
+E:\Dev\Hobby\advent-of-code\2023\day01\target\debug\deps\libanstyle-6fcf4ca455fd83b5.rlib: C:\Users\jax\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\lib.rs C:\Users\jax\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\macros.rs C:\Users\jax\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\color.rs C:\Users\jax\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\effect.rs C:\Users\jax\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\reset.rs C:\Users\jax\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\style.rs
+
+E:\Dev\Hobby\advent-of-code\2023\day01\target\debug\deps\anstyle-6fcf4ca455fd83b5.d: C:\Users\jax\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\lib.rs C:\Users\jax\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\macros.rs C:\Users\jax\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\color.rs C:\Users\jax\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\effect.rs C:\Users\jax\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\reset.rs C:\Users\jax\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\style.rs
+
+C:\Users\jax\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\lib.rs:
+C:\Users\jax\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\macros.rs:
+C:\Users\jax\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\color.rs:
+C:\Users\jax\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\effect.rs:
+C:\Users\jax\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\reset.rs:
+C:\Users\jax\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.4\src\style.rs:
